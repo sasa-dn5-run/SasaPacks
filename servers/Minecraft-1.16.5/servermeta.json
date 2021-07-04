@@ -1,0 +1,28 @@
+{
+  "$schema": "file:///D:/data/code/cd_javascript/minecraft/sasaddLauncher/sasaddPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Minecraft-1.16.5 (Minecraft 1.16.5)",
+    "description": "1.16.5バニラのマインクラフトです。おすすめのMODも付属しています。",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "Minecraft-1.16.5",
+      "largeImageText": "Minecraft-1.16.5",
+      "largeImageKey": "pack_normal-1.16.5"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "36.1.0"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "servers.dat",
+        "options.txt"
+      ]
+    }
+  ]
+}
