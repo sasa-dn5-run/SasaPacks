@@ -3,9 +3,9 @@
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {
-      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "clientId": "861059797273018368",
+      "smallImageText": "sasaddLauncher",
+      "smallImageKey": "sasaddLauncher"
     }
   }
 }

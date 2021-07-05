@@ -2,16 +2,16 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "861059797273018368",
+    "smallImageText": "sasaddLauncher",
+    "smallImageKey": "sasaddLauncher"
   },
   "servers": [
     {
       "id": "Minecraft-1.16.5",
       "name": "Minecraft-1.16.5 (Minecraft 1.16.5)",
       "description": "1.16.5バニラのマインクラフトです。おすすめのMODも付属しています。",
-      "icon": "https://raw.githubusercontent.com/sasadd-LAB/sasaddPacks/deploy/servers/Minecraft-1.16.5/Minecraft-1.16.5.svg",
+      "icon": "https://raw.githubusercontent.com/sasadd-LAB/sasaddPacks/deploy/servers/Minecraft-1.16.5/Minecraft-1.16.5.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.16.5",
