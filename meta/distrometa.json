@@ -4,8 +4,8 @@
     "rss": "<LINK TO RSS FEED>",
     "discord": {
       "clientId": "861059797273018368",
-      "smallImageText": "sasaddLauncher",
-      "smallImageKey": "sasaddLauncher"
+      "smallImageText": "SasaLauncher",
+      "smallImageKey": "SasaLauncher"
     }
   }
 }
