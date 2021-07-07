@@ -18,7 +18,7 @@
       "discord": {
         "shortId": "Minecraft-1.16.5",
         "largeImageText": "Minecraft-1.16.5",
-        "largeImageKey": "pack_normal-1.16.5"
+        "largeImageKey": "minecraft-1_16_5"
       },
       "mainServer": false,
       "autoconnect": false,
