@@ -1,0 +1,30 @@
+{
+  "$schema": "file:///D:/data/code/cd_javascript/minecraft/SasaLauncher/SasaPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "HoukaiCraft (Minecraft 1.12.2)",
+    "description": "崩壊因子で生き残る企画ようの起動構成です。mystCraftが入っています。",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "HoukaiCraft-1.12.2",
+      "largeImageText": "HoukaiCraft-1.12.2",
+      "largeImageKey": "HoukaiCraft-1.12.2"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "14.23.5.2855"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": [
+        "files"
+      ],
+      "patterns": [
+        "servers.dat",
+        "options.txt"
+      ]
+    }
+  ]
+}
