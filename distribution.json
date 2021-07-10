@@ -18,7 +18,7 @@
       "discord": {
         "shortId": "HoukaiCraft-1.12.2",
         "largeImageText": "HoukaiCraft-1.12.2",
-        "largeImageKey": "HoukaiCraft-1.12.2"
+        "largeImageKey": "houkaicraft"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -234,6 +234,19 @@
               }
             }
           ]
+        },
+        {
+          "id": "mezz.jei:jei:4.16.1.301@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 653211,
+            "url": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks/deploy/servers/HoukaiCraft-1.12.2/forgemods/optionalon/jei_1.12.2-4.16.1.301.jar",
+            "MD5": "1dee4be93d666e2228039c551e927b35"
+          },
+          "required": {
+            "value": false
+          }
         },
         {
           "id": "net.minecraftcapes:minecraftcapes:10@jar",
