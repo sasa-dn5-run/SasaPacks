@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///D:/data/code/cd_javascript/minecraft/sasaddLauncher/sasaddPacks/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///D:/data/code/cd_javascript/minecraft/SasaLauncher/SasaPacks/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "Minecraft-1.16.5 (Minecraft 1.16.5)",

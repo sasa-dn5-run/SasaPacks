@@ -6,6 +6,6 @@
             <rect width="500" height="500" />
         </clipPath>
     </defs>
-    <rect x="12.5" y="12.5" width="475" height="475" transform="matrix(1,0,0,1,0,0)" fill="rgb(200,255,255)" />
-    <rect x="50" y="50" width="400" height="400" transform="matrix(1,0,0,1,0,0)" fill="rgb(0,200,255)" />
+    <rect x="12.5" y="12.5" width="475" height="475" transform="matrix(1,0,0,1,0,0)" fill="rgb(250,255,200)" />
+    <rect x="50" y="50" width="400" height="400" transform="matrix(1,0,0,1,0,0)" fill="rgb(100,180,0)" />
 </svg>
