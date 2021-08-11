@@ -535,16 +535,6 @@
           }
         },
         {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 2880,
-            "url": "https://raw.githubusercontent.com/sasadd-LAB/SasaPacks/deploy/servers/Minecraft-1.12.2/files/options.txt",
-            "path": "options.txt"
-          }
-        },
-        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
