@@ -1,0 +1,30 @@
+{
+  "$schema": "file:///Volumes/%E3%83%87%E3%83%BC%E3%82%BF/ddPn08/code/javascript/SasaPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Minecraft (Minecraft 1.14.4)",
+    "description": "1.14.4バニラのマインクラフトです。おすすめのMODも付属しています。",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "Minecraft-1.14.4",
+      "largeImageText": "Minecraft-1.14.4",
+      "largeImageKey": "minecraft-1_16_5"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "28.2.23"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": [
+        "files"
+      ],
+      "patterns": [
+        "servers.dat",
+        "options.txt"
+      ]
+    }
+  ]
+}
